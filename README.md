@@ -47,3 +47,6 @@ Gesture-Controlled Interfaces
 -Detects and tracks hand movements in real time through webcam input.         
 -Displays hand landmarks and gesture tracking on the live video feed.          
 -Enables visualization of hand gestures for interactive Computer Vision applications.
+## 📸 Output
+
+Gesture Vision Output -https://drive.google.com/file/d/1VvO3Nu0rdwitvZG1qLtk6H6C017068yE/view?usp=drive_link
